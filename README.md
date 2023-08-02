@@ -105,11 +105,12 @@ qttck.frameworksAndLibs = new ArrayList<>(
       <details open>
             <summary align="left">
                   <em><strong>Commits</strong></em> 💚
-                  <a href="#statistics">
-                        <img alt="Commits" title="Commits 💚"
-                        src="./profile-3d-contrib/profile-night-rainbow.svg">
-                  </a>
             </summary>
+            </br>
+            <a href="#statistics">
+                  <img alt="Commits" title="Commits 💚"
+                  src="./profile-3d-contrib/profile-night-rainbow.svg">
+            </a>
       </details>
       <!-- LANGUAGES + STATS -->
       <details open id="langs-stats">
@@ -218,7 +219,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </tr>
             <tr align="center">
                   <th>
-                        Data Base
+                        Database
                   </th>
                   <td>
                         <a href="#tools" >
