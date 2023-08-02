@@ -165,9 +165,9 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <em><strong>Repositórios</strong></em> 📂
             </summary>
             </br>
-            <a href="https://github.com/qravattacker/basic-tools">
+            <a href="https://github.com/QravaTTacker/QravaTTacker">
                   <img height="115" alt="readme-stats" title="Repositório para testes"
-                  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=basic-tools&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
+                  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=QravaTTacker&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
             </a>
       </details>
       <hr/>
