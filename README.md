@@ -29,10 +29,15 @@
                   src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
             </a>
       </div>
+      <!-- SNAKE -->
       <div align="center">
-            <a href="#intro">
+            <!-- <a href="#intro">
                   <img alt="Snake" title="Snake commits" 
                   src="https://raw.githubusercontent.com/QravaTTacker/readme-tests/520bdfc0184af3b6d8db89b8f348babf1e8defd4/github-snake-dark.svg"/>
+            </a> -->
+            <a href="#intro">
+                  <img alt="Snake" title="Snake commits" 
+                  src="https://github.com/QravaTTacker/QravaTTacker/blob/output/github-snake-dark.svg"/>
             </a>
       </div>
       <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
