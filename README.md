@@ -31,10 +31,6 @@
       </div>
       <!-- SNAKE -->
       <div align="center">
-            <!-- <a href="#intro">
-                  <img alt="Snake" title="Snake commits" 
-                  src="https://raw.githubusercontent.com/QravaTTacker/readme-tests/520bdfc0184af3b6d8db89b8f348babf1e8defd4/github-snake-dark.svg"/>
-            </a> -->
             <a href="#intro">
                   <img alt="Snake" title="Snake commits" 
                   src="https://github.com/QravaTTacker/QravaTTacker/blob/output/github-snake-dark.svg"/>
@@ -92,6 +88,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <a href="#song" title=" "><img height="20px" alt="dance" src="./local-images/dance.gif"/></a>
       </h3>
       <p>Sou muito eclético quando se trata de música, mas dificilmente você vai ouvir pagode ou sertanejo aqui...</p>
+      <!-- MÚSICA -->
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"       
             title="Ir para o Spotify?">
             <img alt="Spotify"
@@ -162,7 +159,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </br>
             <a href="#trophy">
                   <img alt="My Trophy's" title="Troféus conquistados 🏆"
-                  src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+                  src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=2&column=3&margin-w=10&margin-h=10&no-frame=true"/>
             </a>
       </details>
       <!-- REPOSITÓRIOS -->
@@ -189,6 +186,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </a>
       </h2>
       <table width="100%">
+            <!-- FRONT-END -->
             <tr align="center">
                   <th>
                         Front-end
@@ -200,6 +198,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
+            <!-- BACK-END -->
             <tr align="center">
                   <th>
                         Back-end
@@ -211,6 +210,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
+            <!-- FRAMEWORKS AND LIBS -->
             <tr align="center">
                   <th>
                         Frameworks and Libs
@@ -223,6 +223,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </td>
             </tr>
             <tr align="center">
+            <!-- DATABASE -->
                   <th>
                         Database
                   </th>
@@ -233,6 +234,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
+            <!-- TOOLS -->
             <tr align="center">
                   <th>
                         Tools
@@ -244,6 +246,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
+            <!-- CODE EDITORES/IDE -->
             <tr align="center">
                   <th>
                         Code Editors/IDE
@@ -255,6 +258,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
+            <!-- WORKSPACE -->
             <tr align="center">
                   <th>
                         Workspace
@@ -269,12 +273,11 @@ qttck.frameworksAndLibs = new ArrayList<>(
                               <a href="#tools" title=" ">
                                     <img height="45" width="45" alt="Ubuntu icon" title="Workspace"
                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-                                    <!-- <img height="45" width="45" alt="Linux icon" title="Linux" 
-                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> -->
                               </a>
                         </div>
                   </td>
             </tr>
+            <!-- COMMAND LINE -->
             <tr align="center">
                   <th>
                         Command Line
@@ -286,6 +289,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
+            <!-- JÁ ESTUDEI -->
             <tr align="center">
                   <th>
                         Já estudei
@@ -302,7 +306,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 
 <!-- REFERÊNCIAS -->
 <div>
-      <a href="#tools" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
+      <a href="#api" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
       <em>
       <strong>
       <details id="api">
@@ -374,6 +378,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </details>
       </strong>
       </em>
+      <!-- RODAPÉ -->
       <a href="#api" title=" ">
             <img alt="Capsule Render" width="100%"
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
