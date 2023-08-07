@@ -36,7 +36,7 @@
                   src="https://github.com/QravaTTacker/QravaTTacker/blob/output/github-snake-dark.svg"/>
             </a>
       </div>
-      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
+      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
 </div>
 
 ```js
@@ -56,7 +56,7 @@ const qravattacker {
             Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
             Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo que chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio por hobby, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong> para me tornar um futuro desenvolvedor Fullstack.
       </p>
-      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
+      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
 </div>
 
 ```java
@@ -82,10 +82,10 @@ qttck.frameworksAndLibs = new ArrayList<>(
 
 <!-- SPOTIFY -->
 <div id="song">
-      <a href="#song" title="🎶"><img align="right" alt="My Gif" src="./local-images/dance.gif"/></a>
+      <a href="#song" title="🎶"><img align="right" alt="My Gif" src="./assets/dance.gif"/></a>
       <h3>
             <em><strong>Escute comigo</strong></em>
-            <a href="#song" title=" "><img height="20px" alt="dance" src="./local-images/dance.gif"/></a>
+            <a href="#song" title=" "><img height="20px" alt="dance" src="./assets/dance.gif"/></a>
       </h3>
       <p>Sou muito eclético quando se trata de música, mas dificilmente você vai ouvir pagode ou sertanejo aqui...</p>
       <!-- MÚSICA -->
@@ -101,7 +101,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 <div align="center">
       <h2 id="statistics">
             <em><strong>Minhas Estatísticas</strong></em>
-            <a href="#statistics" title=" "><img width="20px" alt="Code" src="./local-images/code.gif"/></a>
+            <a href="#statistics" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
       </h2>
       <!-- LANGUAGES + STATS -->
       <details open>
@@ -182,7 +182,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <em><strong>Minhas Ferramentas e Linguagens</strong></em>
             <a href="#tools" title=" ">
                   <img alt="pc" width="20px"
-                  src="./local-images/pc.gif"/>
+                  src="./assets/pc.gif"/>
             </a>
       </h2>
       <table width="100%">
@@ -306,7 +306,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 
 <!-- REFERÊNCIAS -->
 <div>
-      <a href="#api" title=" "><img alt="Linha RGB" width="100%" src="./local-images/line-rgb-left.gif"/></a>
+      <a href="#api" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
       <em>
       <strong>
       <details id="api">
