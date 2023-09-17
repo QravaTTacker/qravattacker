@@ -132,11 +132,11 @@ qttck.frameworksAndLibs = new ArrayList<>(
        <!-- STREAK -->
       <details id="streak">
             <summary align="left">
-                  <em><strong>Sequências de commits</strong></em> ⚡
+                  <em><strong>Sequências de commits</strong></em> 🔥
             </summary>
             </br>
             <a href="#streak">
-                  <img height="200" alt="My Streaks" title="Sequências de commits ⚡"
+                  <img height="200" alt="My Streaks" title="Sequências de commits 🔥"
                   src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E"/>
             </a>
       </details>
@@ -159,18 +159,26 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </br>
             <a href="#trophy">
                   <img alt="My Trophy's" title="Troféus conquistados 🏆"
-                  src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=2&column=3&margin-w=10&margin-h=10&no-frame=true"/>
+                  src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"/>
             </a>
       </details>
       <!-- REPOSITÓRIOS -->
-      <details id="repo">
+      <details id="repo" open>
             <summary align="left">
                   <em><strong>Repositórios</strong></em> 📂
             </summary>
             </br>
             <a href="https://github.com/QravaTTacker/QravaTTacker">
-                  <img height="115" alt="readme-stats" title="Repositório para testes"
+                  <img height="115" alt="Repositório profile" title="Repositório para perfil do Github"
                   src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=QravaTTacker&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
+            </a>
+            <a href="https://github.com/QravaTTacker/pseudocode">
+                  <img height="115" alt="Repositório pseudocode" title="Repositório para estudos em Pseudocódigo"
+                  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=pseudocode&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
+            </a>
+            <a href="https://github.com/QravaTTacker/php">
+                  <img height="115" alt="Repositório php" title="Repositório para estudos em PHP"
+                  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=php&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
             </a>
       </details>
       <hr/>
@@ -179,7 +187,8 @@ qttck.frameworksAndLibs = new ArrayList<>(
 <!-- LINGUAGENS E FERRAMENTAS -->
 <div align="center">
       <h2 id="tools">
-            <em><strong>Minhas Ferramentas e Linguagens</strong></em>
+            <!-- <em><strong>Minhas Ferramentas e Linguagens</strong></em> -->
+            <em><strong>Ferramentas que estou Estudando</strong></em>
             <a href="#tools" title=" ">
                   <img alt="pc" width="20px"
                   src="./assets/pc.gif"/>
@@ -218,7 +227,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Frameworks and Libs" 
-                                    src="https://skillicons.dev/icons?i=spring,laravel,bootstrap"/>
+                                    src="https://skillicons.dev/icons?i=spring,laravel,react,bootstrap"/>
                         </a>
                   </td>
             </tr>
@@ -242,7 +251,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Tools" 
-                                    src="https://skillicons.dev/icons?i=git,github,md,figma,maven"/>
+                                    src="https://skillicons.dev/icons?i=git,github"/>
                         </a>
                   </td>
             </tr>
@@ -254,7 +263,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Code Editors/IDE" 
-                                    src="https://skillicons.dev/icons?i=vscode,idea,neovim,vim"/>
+                                    src="https://skillicons.dev/icons?i=vscode,idea,neovim"/>
                         </a>
                   </td>
             </tr>
