@@ -167,7 +167,9 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <summary align="left">
                   <em><strong>Repositórios</strong></em> 📂
             </summary>
-            </br>
+            <!-- </br> -->
+            <p align="left">
+                  Dê uma passada nos principais repositórios que estou trabalhando. Além disso, não esqueça de dar uma estrela 🌟!</p>
             <a href="https://github.com/QravaTTacker/QravaTTacker">
                   <img height="115" alt="Repositório profile" title="Repositório para perfil do Github"
                   src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=QravaTTacker&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
@@ -255,7 +257,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
-            <!-- CODE EDITORES/IDE -->
+            <!-- CODE EDITORS/IDE -->
             <tr align="center">
                   <th>
                         Code Editors/IDE
