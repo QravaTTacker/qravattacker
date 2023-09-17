@@ -126,7 +126,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </a>
             <a href="#langs-stats">
                   <img height="200" alt="My Stats" title="Status 📋"
-                  src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e"/>
+                  src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e&rank_icon=github"/>
             </a>
       </details>
        <!-- STREAK -->
