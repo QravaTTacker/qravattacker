@@ -1,7 +1,7 @@
 <!-- APRESENTAÇÃO -->
 <div id="intro" align="center">
       <!-- CABEÇALHO -->
-      <a href="#intro" title=" ">
+      <a href="#repo" title=" ">
             <img alt="Capsule Render" width="100%"
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=QravaTTacker&fontSize=50&animation=fadeIn"/>
       </a>
@@ -103,14 +103,14 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <em><strong>Minhas Estatísticas</strong></em>
             <a href="#statistics" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
       </h2>
-      <!-- LANGUAGES + STATS -->
+      <!-- COMMITS RGB -->
       <details open>
             <summary align="left">
                   <em><strong>Commits</strong></em> 💚
             </summary>
             </br>
             <a href="#statistics">
-                  <img alt="Commits" title="Commits 💚"
+                  <img alt="My Commits" title="Commits 💚"
                   src="./profile-3d-contrib/profile-night-rainbow.svg">
             </a>
       </details>
@@ -159,7 +159,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </br>
             <a href="#trophy">
                   <img alt="My Trophy's" title="Troféus conquistados 🏆"
-                  src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"/>
+                  src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
             </a>
       </details>
       <!-- REPOSITÓRIOS -->
