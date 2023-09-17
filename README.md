@@ -300,7 +300,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         </a>
                   </td>
             </tr>
-            <!-- JÁ ESTUDEI -->
+            <!-- JÁ ESTUDEI
             <tr align="center">
                   <th>
                         Já estudei
@@ -310,7 +310,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                               <img alt="Front-end tools" title="Linguagens e ferramentas que já estudei" 
                                     src="https://skillicons.dev/icons?i=c,cpp,py"/>
                         </a>
-                  </td>
+                  </td> -->
             </tr>
       </table>
 </div>
