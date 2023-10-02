@@ -43,9 +43,9 @@
 const qravattacker {
       name: "Cristian Pessotto",
       age: 21,
-      email: "cristianpessotto88@gmail.com",
       job: "Fullstack",
-      address: "Paraná"
+      address: "Paraná",
+      languages: ["PHP", "Javascript", "Java"]
 };
 ```
 
@@ -56,10 +56,26 @@ const qravattacker {
             Me chamo <del>Cristian</del> <ins>QravaTTacker</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong> e provavelmente a rede que mais pretendo ficar ativo.<br/>
             Não sou apegado à nenhuma linguagem, por esse motivo sempre estou estudando um pouco de tudo. Sou aquilo que chamam de <strong>profissional generalista</strong>. Comecei com <strong>Python</strong> durante o ensino médio por hobby, depois parti para <strong>C</strong> na faculdade e atualmente estou estudando Estruturas de Dados e OOP com <strong>Java</strong>. Além disso, foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong> para me tornar um futuro desenvolvedor Fullstack.
       </p>
-      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
+      <!-- SPOTIFY -->
+      <div id="song">
+            <a href="#song" title="🎶"><img align="right" alt="My Gif" src="./assets/dance.gif"/></a>
+            <h3>
+                  <em><strong>Escute comigo</strong></em>
+                  <a href="#song" title=" "><img height="20px" alt="dance" src="./assets/dance.gif"/></a>
+            </h3>
+            <p>Sou muito eclético quando se trata de música, mas dificilmente você vai ouvir pagode ou sertanejo aqui...</p>
+            <!-- MÚSICA -->
+            <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"       
+                  title="Ir para o Spotify?">
+                  <img alt="Spotify"
+                  src="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+            </a>
+            <hr/>
+      </div>
+      <!-- <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a> -->
 </div>
 
-```java
+<!-- ```java
 Developer qttck = new Developer();
 
 qttck.languages = new ArrayList<>(
@@ -78,24 +94,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             "Bootstrap"
       )
 );
-```
-
-<!-- SPOTIFY -->
-<div id="song">
-      <a href="#song" title="🎶"><img align="right" alt="My Gif" src="./assets/dance.gif"/></a>
-      <h3>
-            <em><strong>Escute comigo</strong></em>
-            <a href="#song" title=" "><img height="20px" alt="dance" src="./assets/dance.gif"/></a>
-      </h3>
-      <p>Sou muito eclético quando se trata de música, mas dificilmente você vai ouvir pagode ou sertanejo aqui...</p>
-      <!-- MÚSICA -->
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"       
-            title="Ir para o Spotify?">
-            <img alt="Spotify"
-            src="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-      </a>
-      <hr/>
-</div>
+``` -->
 
 <!-- ESTATÍSTICAS -->
 <div align="center">
@@ -104,7 +103,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <a href="#statistics" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
       </h2>
       <!-- COMMITS RGB -->
-      <details open>
+      <details>
             <summary align="left">
                   <em><strong>Commits</strong></em> 💚
             </summary>
@@ -190,7 +189,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 <div align="center">
       <h2 id="tools">
             <!-- <em><strong>Minhas Ferramentas e Linguagens</strong></em> -->
-            <em><strong>Ferramentas que estou Estudando</strong></em>
+            <em><strong>Minha Tecnologias</strong></em>
             <a href="#tools" title=" ">
                   <img alt="pc" width="20px"
                   src="./assets/pc.gif"/>
