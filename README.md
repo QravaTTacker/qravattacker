@@ -6,7 +6,7 @@
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=QravaTTacker&fontSize=50&animation=fadeIn"/>
       </a>
       <!-- ESCRITA DINÂMICA -->
-      <a href="#intro" title=" ">
+      <a href="#none" title=" ">
             <img alt=": Press F5"
             src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+e+PHP;Fullstack+Web"/>
       </a>
@@ -31,12 +31,12 @@
       </div>
       <!-- SNAKE -->
       <div align="center">
-            <a href="#intro">
+            <a href="#none">
                   <img alt="Snake" title="Snake commits" 
                   src="https://github.com/QravaTTacker/QravaTTacker/blob/output/github-snake-dark.svg"/>
             </a>
       </div>
-      <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
+      <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
 </div>
 
 ```js
@@ -58,10 +58,10 @@ const qravattacker {
       </p>
       <!-- SPOTIFY -->
       <div id="song">
-            <a href="#song" title="🎶"><img align="right" alt="My Gif" src="./assets/dance.gif"/></a>
+            <a href="#none" title="🎶"><img align="right" alt="My Gif" src="./assets/dance.gif"/></a>
             <h3>
                   <em><strong>Escute comigo</strong></em>
-                  <a href="#song" title=" "><img height="20px" alt="dance" src="./assets/dance.gif"/></a>
+                  <a href="#none" title=" "><img height="20px" alt="dance" src="./assets/dance.gif"/></a>
             </h3>
             <p>Sou muito eclético quando se trata de música, mas dificilmente você vai ouvir pagode ou sertanejo aqui...</p>
             <!-- MÚSICA -->
@@ -72,7 +72,7 @@ const qravattacker {
             </a>
             <hr/>
       </div>
-      <!-- <a href="#intro" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a> -->
+      <!-- <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a> -->
 </div>
 
 <!-- ```java
@@ -100,7 +100,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 <div align="center">
       <h2 id="statistics">
             <em><strong>Minhas Estatísticas</strong></em>
-            <a href="#statistics" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
+            <a href="#none" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
       </h2>
       <!-- COMMITS RGB -->
       <details>
@@ -108,7 +108,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <em><strong>Commits</strong></em> 💚
             </summary>
             </br>
-            <a href="#statistics">
+            <a href="#none">
                   <img alt="My Commits" title="Commits 💚"
                   src="./profile-3d-contrib/profile-night-rainbow.svg">
             </a>
@@ -119,11 +119,11 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <em><strong>Linguagens utilizadas + Status</strong></em> 💻
             </summary>
             </br>
-            <a href="#langs-stats">
+            <a href="#none-stats">
                   <img height="200" alt="My Languages" title="Linguagens utilizadas 💻"
                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=qravattacker&theme=aura&bg_color=deg,15131b,2a0027&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=503b7e"/>
             </a>
-            <a href="#langs-stats">
+            <a href="#none-stats">
                   <img height="200" alt="My Stats" title="Status 📋"
                   src="https://github-readme-stats.vercel.app/api?username=qravattacker&theme=aura&show_icons=true&bg_color=deg,15131b,2a0027&border_color=503b7e&rank_icon=github"/>
             </a>
@@ -134,7 +134,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <em><strong>Sequências de commits</strong></em> 🔥
             </summary>
             </br>
-            <a href="#streak">
+            <a href="#none">
                   <img height="200" alt="My Streaks" title="Sequências de commits 🔥"
                   src="https://streak-stats.demolab.com?user=qravattacker&theme=aura&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=45%2C15141B%2C2B0028&fire=f693ff&border=503B7E"/>
             </a>
@@ -145,7 +145,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <em><strong>Commits no último mês</strong></em> 📅
             </summary>
             </br>
-            <a href="#graph">
+            <a href="#none">
                   <img width="90%" alt="My Graph" title="Commits no último mês 📅"
                   src="https://github-readme-activity-graph.vercel.app/graph?username=QravaTTacker&bg_color=1e0c20&custom_title=Gráfico%20de%20Contribuições&hide_title=true&color=61fec9&line=a277ff&point=f694ff&area=true&hide_border=true&radius=16&hide_title=true&theme=modern-lilac"/>
             </a>
@@ -156,7 +156,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <em><strong>Troféus conquistados</strong></em> 🏆
             </summary>
             </br>
-            <a href="#trophy">
+            <a href="#none">
                   <img alt="My Trophy's" title="Troféus conquistados 🏆"
                   src="https://github-profile-trophy.vercel.app/?username=qravattacker&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
             </a>
@@ -194,7 +194,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
       <h2 id="tools">
             <!-- <em><strong>Minhas Ferramentas e Linguagens</strong></em> -->
             <em><strong>Minha Tecnologias</strong></em>
-            <a href="#tools" title=" ">
+            <a href="#none" title=" ">
                   <img alt="pc" width="20px" 
                   src="./assets/pc.gif"/>
             </a>
@@ -206,7 +206,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Front-end
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Front-end"
                               src="https://skillicons.dev/icons?i=js,html,css,sass"/>
                         </a>
@@ -218,7 +218,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Back-end
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Back-end"
                               src="https://skillicons.dev/icons?i=java,php"/>
                         </a>
@@ -230,7 +230,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Frameworks and Libs
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Frameworks and Libs" 
                               src="https://skillicons.dev/icons?i=spring,laravel,react,bootstrap"/>
                         </a>
@@ -242,7 +242,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Database
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Data Base" 
                               src="https://skillicons.dev/icons?i=mysql"/>
                         </a>
@@ -254,7 +254,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Tools
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Tools" 
                               src="https://skillicons.dev/icons?i=git,github"/>
                         </a>
@@ -266,7 +266,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Code Editors/IDE
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Code Editors/IDE" 
                                     src="https://skillicons.dev/icons?i=vscode,idea,neovim"/>
                         </a>
@@ -279,12 +279,12 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </th>
                     <td>
                         <div align="center" title="Workspace">
-                              <a href="#tools" title=" ">
+                              <a href="#none" title=" ">
                                     <img height="40" width="40" alt="Windows icon" title="Workspace"
                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
                               </a> 
                               &nbsp;
-                              <a href="#tools" title=" ">
+                              <a href="#none" title=" ">
                                     <img height="45" width="45" alt="Ubuntu icon" title="Workspace"
                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
                               </a>
@@ -297,7 +297,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Command Line
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Command Line" 
                                     src="https://skillicons.dev/icons?i=powershell,bash"/>
                         </a>
@@ -309,7 +309,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                         Já estudei
                   </th>
                   <td>
-                        <a href="#tools" >
+                        <a href="#none" >
                               <img alt="Front-end tools" title="Linguagens e ferramentas que já estudei" 
                                     src="https://skillicons.dev/icons?i=c,cpp,py"/>
                         </a>
@@ -320,7 +320,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 
 <!-- REFERÊNCIAS -->
 <div>
-      <a href="#api" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
+      <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
       <em>
       <strong>
       <details id="api">
@@ -393,7 +393,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
       </strong>
       </em>
       <!-- RODAPÉ -->
-      <a href="#api" title=" ">
+      <a href="#none" title=" ">
             <img alt="Capsule Render" width="100%"
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
       </a>
