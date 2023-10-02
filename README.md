@@ -173,6 +173,10 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <img height="115" alt="Repositório profile" title="Repositório para perfil do Github"
                   src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=QravaTTacker&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
             </a>
+            <a href="https://github.com/QravaTTacker/fama">
+                  <img height="115" alt="Repositório fama" title="Repositório da Faculdade FAMA"
+                  src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=fama&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
+            </a>
             <a href="https://github.com/QravaTTacker/pseudocode">
                   <img height="115" alt="Repositório pseudocode" title="Repositório para estudos em Pseudocódigo"
                   src="https://github-readme-stats.vercel.app/api/pin/?username=qravattacker&repo=pseudocode&theme=aura&bg_color=deg,2a0027,15131b&border_color=503b7e"/>
@@ -191,7 +195,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <!-- <em><strong>Minhas Ferramentas e Linguagens</strong></em> -->
             <em><strong>Minha Tecnologias</strong></em>
             <a href="#tools" title=" ">
-                  <img alt="pc" width="20px"
+                  <img alt="pc" width="20px" 
                   src="./assets/pc.gif"/>
             </a>
       </h2>
@@ -228,7 +232,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Frameworks and Libs" 
-                                    src="https://skillicons.dev/icons?i=spring,laravel,react,bootstrap"/>
+                              src="https://skillicons.dev/icons?i=spring,laravel,react,bootstrap"/>
                         </a>
                   </td>
             </tr>
@@ -240,7 +244,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Data Base" 
-                                    src="https://skillicons.dev/icons?i=mysql"/>
+                              src="https://skillicons.dev/icons?i=mysql"/>
                         </a>
                   </td>
             </tr>
@@ -252,7 +256,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#tools" >
                               <img alt="Front-end tools" title="Tools" 
-                                    src="https://skillicons.dev/icons?i=git,github"/>
+                              src="https://skillicons.dev/icons?i=git,github"/>
                         </a>
                   </td>
             </tr>
