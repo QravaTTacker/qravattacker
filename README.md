@@ -203,7 +203,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <!-- FRONT-END -->
             <tr align="center">
                   <th>
-                        Front-end
+                        Client Side (Front)
                   </th>
                   <td>
                         <a href="#none" >
@@ -215,12 +215,12 @@ qttck.frameworksAndLibs = new ArrayList<>(
             <!-- BACK-END -->
             <tr align="center">
                   <th>
-                        Back-end
+                        Server Side (Back)
                   </th>
                   <td>
                         <a href="#none" >
                               <img alt="Front-end tools" title="Back-end"
-                              src="https://skillicons.dev/icons?i=java,php"/>
+                              src="https://skillicons.dev/icons?i=php,mysql,postgres,postman"/>
                         </a>
                   </td>
             </tr>
@@ -232,19 +232,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#none" >
                               <img alt="Front-end tools" title="Frameworks and Libs" 
-                              src="https://skillicons.dev/icons?i=spring,laravel,react,bootstrap"/>
-                        </a>
-                  </td>
-            </tr>
-            <tr align="center">
-            <!-- DATABASE -->
-                  <th>
-                        Database
-                  </th>
-                  <td>
-                        <a href="#none" >
-                              <img alt="Front-end tools" title="Data Base" 
-                              src="https://skillicons.dev/icons?i=mysql"/>
+                              src="https://skillicons.dev/icons?i=laravel,react,bootstrap"/>
                         </a>
                   </td>
             </tr>
@@ -256,7 +244,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#none" >
                               <img alt="Front-end tools" title="Tools" 
-                              src="https://skillicons.dev/icons?i=git,github"/>
+                              src="https://skillicons.dev/icons?i=github,git"/>
                         </a>
                   </td>
             </tr>
@@ -268,7 +256,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#none" >
                               <img alt="Front-end tools" title="Code Editors/IDE" 
-                                    src="https://skillicons.dev/icons?i=vscode,idea,neovim"/>
+                                    src="https://skillicons.dev/icons?i=vscode,neovim"/>
                         </a>
                   </td>
             </tr>
@@ -285,8 +273,8 @@ qttck.frameworksAndLibs = new ArrayList<>(
                               </a> 
                               &nbsp;
                               <a href="#none" title=" ">
-                                    <img height="45" width="45" alt="Ubuntu icon" title="Workspace"
-                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+                                    <img height="45" width="45" alt="Debian icon" title="Workspace" 
+                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
                               </a>
                         </div>
                   </td>
