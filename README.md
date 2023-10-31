@@ -110,7 +110,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </br>
             <a href="#none">
                   <img alt="My Commits" title="Commits 💚"
-                  src="./profile-3d-contrib/profile-night-rainbow.svg">
+                  src="./profile-3d-contrib/profile-night-green.svg">
             </a>
       </details>
       <!-- LANGUAGES + STATS -->
@@ -219,7 +219,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </th>
                   <td>
                         <a href="#none" >
-                              <img alt="Front-end tools" title="Back-end"
+                              <img alt="Back-end tools" title="Back-end"
                               src="https://skillicons.dev/icons?i=php,mysql,postgres,postman"/>
                         </a>
                   </td>
@@ -231,7 +231,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </th>
                   <td>
                         <a href="#none" >
-                              <img alt="Front-end tools" title="Frameworks and Libs" 
+                              <img alt="Frameworks and Libs" title="Frameworks and Libs" 
                               src="https://skillicons.dev/icons?i=laravel,react,bootstrap"/>
                         </a>
                   </td>
@@ -243,7 +243,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </th>
                   <td>
                         <a href="#none" >
-                              <img alt="Front-end tools" title="Tools" 
+                              <img alt="Tools" title="Tools" 
                               src="https://skillicons.dev/icons?i=github,git"/>
                         </a>
                   </td>
@@ -255,7 +255,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   </th>
                   <td>
                         <a href="#none" >
-                              <img alt="Front-end tools" title="Code Editors/IDE" 
+                              <img alt="Code Editors/IDE" title="Code Editors/IDE" 
                                     src="https://skillicons.dev/icons?i=vscode,neovim"/>
                         </a>
                   </td>
