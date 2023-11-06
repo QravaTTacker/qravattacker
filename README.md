@@ -44,7 +44,7 @@ const qravattacker {
       name: "Cristian Pessotto",
       age: 21,
       job: "Fullstack",
-      address: "Paraná",
+      location: "Paraná, BR",
       languages: ["PHP", "Javascript", "Java"]
 };
 ```
@@ -72,29 +72,7 @@ const qravattacker {
             </a>
             <hr/>
       </div>
-      <!-- <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a> -->
 </div>
-
-<!-- ```java
-Developer qttck = new Developer();
-
-qttck.languages = new ArrayList<>(
-      Arrays.asList(
-            "Javascript",
-            "PHP",
-            "Java"
-      )
-);
-
-qttck.frameworksAndLibs = new ArrayList<>(
-      Arrays.asList(
-            "React",
-            "Laravel",
-            "Spring",
-            "Bootstrap"
-      )
-);
-``` -->
 
 <!-- ESTATÍSTICAS -->
 <div align="center">
@@ -110,7 +88,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
             </br>
             <a href="#none">
                   <img alt="My Commits" title="Commits 💚"
-                  src="./profile-3d-contrib/profile-night-green.svg">
+                  src="./profile-3d-contrib/profile-night-rainbow.svg">
             </a>
       </details>
       <!-- LANGUAGES + STATS -->
@@ -192,8 +170,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
 <!-- LINGUAGENS E FERRAMENTAS -->
 <div align="center">
       <h2 id="tools">
-            <!-- <em><strong>Minhas Ferramentas e Linguagens</strong></em> -->
-            <em><strong>Minha Tecnologias</strong></em>
+            <em><strong>Minhas Ferramentas e Tecnologias</strong></em>
             <a href="#none" title=" ">
                   <img alt="pc" width="20px" 
                   src="./assets/pc.gif"/>
@@ -220,7 +197,7 @@ qttck.frameworksAndLibs = new ArrayList<>(
                   <td>
                         <a href="#none" >
                               <img alt="Back-end tools" title="Back-end"
-                              src="https://skillicons.dev/icons?i=php,mysql,postgres,postman"/>
+                              src="https://skillicons.dev/icons?i=php,mysql"/>
                         </a>
                   </td>
             </tr>
@@ -290,18 +267,6 @@ qttck.frameworksAndLibs = new ArrayList<>(
                                     src="https://skillicons.dev/icons?i=powershell,bash"/>
                         </a>
                   </td>
-            </tr>
-            <!-- JÁ ESTUDEI
-            <tr align="center">
-                  <th>
-                        Já estudei
-                  </th>
-                  <td>
-                        <a href="#none" >
-                              <img alt="Front-end tools" title="Linguagens e ferramentas que já estudei" 
-                                    src="https://skillicons.dev/icons?i=c,cpp,py"/>
-                        </a>
-                  </td> -->
             </tr>
       </table>
 </div>
