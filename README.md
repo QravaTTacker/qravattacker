@@ -65,10 +65,10 @@ const qravattacker {
             </h3>
             <p>Sou muito eclético quando se trata de música, mas dificilmente você vai ouvir pagode ou sertanejo aqui...</p>
             <!-- MÚSICA -->
-            <a href="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"       
+            <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&redirect=true"       
                   title="Ir para o Spotify?">
                   <img alt="Spotify"
-                  src="https://spotify-github-profile.vercel.app/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+                  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rkyoczqj5ax3mrymmjusvvdode&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
             </a>
             <hr/>
       </div>
@@ -243,17 +243,10 @@ const qravattacker {
                         Workspace
                   </th>
                     <td>
-                        <div align="center" title="Workspace">
-                              <a href="#none" title=" ">
-                                    <img height="40" width="40" alt="Windows icon" title="Workspace"
-                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-                              </a> 
-                              &nbsp;
-                              <a href="#none" title=" ">
-                                    <img height="45" width="45" alt="Debian icon" title="Workspace" 
-                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-                              </a>
-                        </div>
+                        <a href="#none" >
+                              <img alt="Code Editors/IDE" title="Code Editors/IDE" 
+                                     src="https://skillicons.dev/icons?i=windows,debian"/>
+                        </a>
                   </td>
             </tr>
             <!-- COMMAND LINE -->
